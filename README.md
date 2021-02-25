@@ -3,8 +3,8 @@
 #### :star: who I am
 - C/C++ Game Developer & Software Engineer
 - Pixel Artist
-- part time magician
-- linguist
+- Part time magician
+- Multilingual (JP/KO/CN/DE/ENG/FR)
 
 <!---
 nillalol/nillalol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
