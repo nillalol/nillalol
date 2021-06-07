@@ -1,6 +1,6 @@
 👋 Hallo, I’m @ponpon1873
 
-I use C, C++, Lua, Crystal & JavaScript.
+VR Hardware Enthusiast & C/C++ Developer
 
 <!---
 nillalol/nillalol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
